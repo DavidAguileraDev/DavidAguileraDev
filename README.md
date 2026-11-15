@@ -64,6 +64,59 @@ I'm motivated by the challenge of creating useful things and building my own pat
 
 ---
 
+<!-- CURRENT PROJECTS -->
+<h2>
+  <span style="color:#58A6FF">🔥 Currently Working On</span>
+</h2>
+
+<p>
+  Here are some of the projects I'm actively developing, each one helping me learn, experiment and grow as a developer.
+</p>
+
+<table>
+  <tr>
+    <td width="100%">
+      <h3>🚀 TaskFlow</h3>
+      <p>
+        <strong>My main project</strong>
+      </p>
+      <p>
+        A task management application focused on productivity and organization. Built to explore modern frontend development and backend integration.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Symfony-000000?style=flat&logo=symfony&logoColor=white"/>
+      </p>
+      <a href="https://github.com/DavidAguileraDev/TaskFlow">View repository →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%">
+      <h3>🎨 Personal Portfolio</h3>
+      <p>
+        A personal portfolio website to showcase my projects, skills, experience and journey as a developer.
+      </p>
+      <p>
+        <strong>Status:</strong> In development
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%">
+      <h3>⚔️ WoW Forever Character Explorer</h3>
+      <p>
+        A web application designed to explore and consult information about any World of Warcraft character on the WoW Forever server.
+      </p>
+      <p>
+        <strong>Status:</strong> In development
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
 <!-- MY MINDSET -->
 <h2>
   <span style="color:#BC8CFF">🚀 My Mindset</span>
