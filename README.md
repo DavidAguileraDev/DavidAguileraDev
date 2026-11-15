@@ -1,23 +1,42 @@
 
+<!-- HEADER -->
 <h1 align="center">Hi, I'm David 👋</h1>
 
-<h3 align="center">Web Application Development Student</h3>
+<h3 align="center">
+  <span style="color:#58A6FF">Web Application Development Student</span>
+</h3>
 
 <p align="center">
   <code>STUDENT</code> • <code>DEVELOPER</code> • <code>LIFELONG LEARNER</code>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Passionate+about+technology;Always+learning+and+creating;Building+things+that+matter" alt="Typing SVG" />
+</p>
+
 ---
 
-### <span style="color:#e63946">01 / ABOUT ME</span>
+<!-- ABOUT ME -->
+<h2>
+  <span style="color:#58A6FF">👨‍💻 About Me</span>
+</h2>
 
-Hi! I'm David, a Web Application Development student passionate about programming and technology.
+I'm David, a Web Application Development student passionate about programming and technology.
 
-I'm always eager to learn, explore new technologies and improve my skills. I enjoy building projects, solving problems and challenging myself to become a better developer.
+I enjoy exploring new technologies, solving problems and turning ideas into real projects. I'm constantly looking for ways to improve my skills, expand my knowledge and grow as a developer.
 
-### <span style="color:#e63946">02 / TECH STACK</span>
+I'm motivated by the challenge of creating useful things and building my own path in the world of software development.
 
-**Frontend Development**
+---
+
+<!-- TECH STACK -->
+<h2>
+  <span style="color:#58A6FF">⚡ Tech Stack</span>
+</h2>
+
+<h3>
+  <span style="color:#39D0D8">Frontend Development</span>
+</h3>
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="55" height="55" alt="HTML5"/>
@@ -31,7 +50,9 @@ I'm always eager to learn, explore new technologies and improve my skills. I enj
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="55" height="55" alt="React"/>
 </p>
 
-**Backend Development**
+<h3>
+  <span style="color:#BC8CFF">Backend Development</span>
+</h3>
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="55" height="55" alt="PHP"/>
@@ -43,15 +64,31 @@ I'm always eager to learn, explore new technologies and improve my skills. I enj
 
 ---
 
-### <span style="color:#e63946">03 / MY MINDSET</span>
+<!-- MY MINDSET -->
+<h2>
+  <span style="color:#BC8CFF">🚀 My Mindset</span>
+</h2>
 
-- 🌱 Always learning and improving.
-- 💻 Turning ideas into projects.
-- 🚀 Looking forward to new challenges and opportunities.
+- 💡 **Create. Innovate. Build.**  
+  Always looking for new ideas and opportunities to turn them into something real.
+
+- 📈 **Never Stop Growing.**  
+  Driven to grow both personally and professionally, constantly pushing my limits.
+
+- 🛠️ **Build Things That Matter.**  
+  Passionate about creating useful solutions that make a difference.
+
+- 🎯 **Chase New Opportunities.**  
+  Determined to make my way in the world of software development and turn ambition into achievement.
 
 ---
 
+<!-- FOOTER -->
 <h3 align="center">
-  <span style="color:#e63946">ALWAYS LEARNING.</span>
-  ALWAYS BUILDING.
+  <span style="color:#58A6FF">DREAM BIG.</span>
+  BUILD MORE. NEVER SETTLE.
 </h3>
+
+<p align="center">
+  <i>Always learning. Always creating. Always moving forward.</i>
+</p>
