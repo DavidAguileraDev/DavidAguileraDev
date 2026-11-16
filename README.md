@@ -52,7 +52,7 @@ I'm motivated by the challenge of creating useful things and building my own pat
   <tr>
     <td align="center" width="50%">
       <h3>🌐 Frontend Development</h3>
-
+<>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5"/>
       &nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3"/>
@@ -62,24 +62,24 @@ I'm motivated by the challenge of creating useful things and building my own pat
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript"/>
       &nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48" height="48" alt="React"/>
-
+<>
       <br/><br/>
-
+<>
       <sub>HTML5 · CSS3 · JavaScript · TypeScript · React</sub>
     </td>
-
+<>
     <td align="center" width="50%">
       <h3>⚙️ Backend Development</h3>
-
+<>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="48" height="48" alt="PHP"/>
       &nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="48" height="48" alt="Laravel"/>
       &nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/symfony/symfony-original.svg" width="48" height="48" alt="Symfony"/>
 
-      <br/><br/>
+ <>     <br/><br/>
 
-      <sub>PHP · Laravel · Symfony</sub>
+ <>     <sub>PHP · Laravel · Symfony</sub>
     </td>
   </tr>
 </table>
