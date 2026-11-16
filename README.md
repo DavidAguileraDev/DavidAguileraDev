@@ -212,6 +212,5 @@ Determined to make my way in software development and turn ambition into achieve
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=DavidAguileraDev&style=flat-square&color=58A6FF&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
