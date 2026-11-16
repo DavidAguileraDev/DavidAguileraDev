@@ -41,6 +41,7 @@ I'm motivated by the challenge of creating useful things and building my own pat
 
 ---
 
+ 
 <!-- TECH STACK -->
 <h2 align="center">⚡ Tech Stack</h2>
 
@@ -52,7 +53,9 @@ I'm motivated by the challenge of creating useful things and building my own pat
 <tr>
 <td align="center" width="50%" bgcolor="#161B22">
 
-<h3>🌐 Frontend Development</h3>
+<h3 align="center">🌐 Frontend Development</h3>
+
+<br/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5"/>
 &nbsp;
@@ -77,7 +80,9 @@ I'm motivated by the challenge of creating useful things and building my own pat
 </td>
 <td align="center" width="50%" bgcolor="#161B22">
 
-<h3>⚙️ Backend Development</h3>
+<h3 align="center">⚙️ Backend Development</h3>
+
+<br/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="48" height="48" alt="PHP"/>
 &nbsp;
