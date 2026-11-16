@@ -49,58 +49,64 @@ I'm motivated by the challenge of creating useful things and building my own pat
   <i>Technologies I'm learning and using in my projects</i>
 </p>
 
+
 <table>
-<tr>
-<td align="center" width="50%" bgcolor="#161B22">
+  <!-- HEADERS -->
+  <tr>
+    <td align="center" width="50%" bgcolor="#161B22">
+      <h3>🌐 Frontend Development</h3>
+    </td>
+    <td align="center" width="50%" bgcolor="#161B22">
+      <h3>⚙️ Backend Development</h3>
+    </td>
+  </tr>
 
-<h3 align="center">🌐 Frontend Development</h3>
+  <!-- TECHNOLOGY ICONS -->
+  <tr>
+    <td align="center" bgcolor="#161B22">
+      <br/>
 
-<br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5"/>
+      &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3"/>
+      &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/>
+      &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript"/>
+      &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48" height="48" alt="React"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48" height="48" alt="React"/>
+      <br/><br/>
 
-<br/><br/>
+      <img src="https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=E34F26"/>
+      <img src="https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=1572B6"/>
+      <img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
+      <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6"/>
+      <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB"/>
 
-<img src="https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=E34F26"/>
-<img src="https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=1572B6"/>
-<img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6"/>
-<img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB"/>
+      <br/><br/>
+    </td>
 
-<br/><br/>
+    <td align="center" bgcolor="#161B22">
+      <br/>
 
-</td>
-<td align="center" width="50%" bgcolor="#161B22">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="48" height="48" alt="PHP"/>
+      &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="48" height="48" alt="Laravel"/>
+      &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/symfony/symfony-original.svg" width="48" height="48" alt="Symfony"/>
 
-<h3 align="center">⚙️ Backend Development</h3>
+      <br/><br/>
 
-<br/>
+      <img src="https://img.shields.io/badge/PHP-0D1117?style=flat-square&logo=php&logoColor=777BB4"/>
+      <img src="https://img.shields.io/badge/Laravel-0D1117?style=flat-square&logo=laravel&logoColor=FF2D20"/>
+      <img src="https://img.shields.io/badge/Symfony-0D1117?style=flat-square&logo=symfony&logoColor=FFFFFF"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="48" height="48" alt="PHP"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="48" height="48" alt="Laravel"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/symfony/symfony-original.svg" width="48" height="48" alt="Symfony"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/PHP-0D1117?style=flat-square&logo=php&logoColor=777BB4"/>
-<img src="https://img.shields.io/badge/Laravel-0D1117?style=flat-square&logo=laravel&logoColor=FF2D20"/>
-<img src="https://img.shields.io/badge/Symfony-0D1117?style=flat-square&logo=symfony&logoColor=FFFFFF"/>
-
-<br/><br/>
-
-</td>
-</tr>
+      <br/><br/>
+    </td>
+  </tr>
 </table>
+
 
 ---
 
